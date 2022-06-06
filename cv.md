@@ -1,8 +1,56 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+# Aliona Pelikh
+
+---
+
+### __Contact information__
+
+**Location:** Amsterdam, Netherlands
+**Phone:** +31615192491
+**E-mail:** aliona.pelikh@gmail.com
+**Telegram:** @aliopik
+**LinkedIn** [aliop] (https://www.linkedin.com/in/aliop/)
+**GitHub:** [aliopik] (https://github.com/aliopik)
+
+---
+
+### __About Me__
+blabla
+
+---
+
+## __Skills__
+- Git, GitHub, Bitbucket
+- Unreal Engine
+- HTML5, CSS3
+
+---
+
+### __Code Example__
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+---
+
+## __Work experience__
+QA Engineer at Yandex Self-Driving Cars
+
+---
+
+## __Education__ 
+- **University:**
+	BSU MMF
+- **Courses:**
+	RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+## __Languages__
+
+- English \- B1 Intermediate (according to the online test at ![EFset Logo](/images/efset-logo.png) [www.efset.org](https://www.efset.org/quick-check))<br>
+![EFset Score](/images/efset-english-level.jpg)
+- Russian \- Native
