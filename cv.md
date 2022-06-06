@@ -1,6 +1,6 @@
 # Aliona Pelikh
 
-### __Contact information__
+## __Contact information__
 
 - **Location:** Amsterdam, Netherlands
 - **Phone:** +31615192491
@@ -9,7 +9,7 @@
 - **LinkedIn** [aliop](https://www.linkedin.com/in/aliop/)
 - **GitHub:** [aliopik](https://github.com/aliopik)
 
-### __About Me__
+## __About Me__
 blabla
 
 ## __Skills__
@@ -17,7 +17,7 @@ blabla
 - Unreal Engine
 - HTML5, CSS3
 
-### __Code Example__
+## __Code Example__
 ```
 function sum(a, b) {
   return a + b;
