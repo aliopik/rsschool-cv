@@ -10,7 +10,7 @@
 - **GitHub:** [aliopik](https://github.com/aliopik)
 
 ## __About Me__
-blabla
+Information about me
 
 ## __Skills__
 - Git, GitHub, Bitbucket
