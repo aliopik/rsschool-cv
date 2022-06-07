@@ -38,5 +38,5 @@ QA Engineer at Yandex Self-Driving Cars
 
 ## __Languages__
 
-- English \- B1 Intermediate (according to the online test at [EFset](www.efset.org))
+- English \- B1 (according to the online test at [EFset](https://www.efset.org/cert/Ug8hFD))
 - Russian \- Native
