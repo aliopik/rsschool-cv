@@ -1,0 +1,250 @@
+/* Global */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+    font-family: "Cabin", sans-serif;
+    list-style: circle;
+}
+
+:root {
+    --main-background-color: #a4bbaf;
+    --additional-background-color: rgba(218, 239, 227, 0.666);
+    --dark-green-color: #16342fc4;
+    --light-green-color: #a9d4cd;
+}
+
+.wrapper {
+	max-width: 1000px;
+    min-height: 100%;
+    min-width: 750px;
+    margin: 20px auto;
+    line-height: 1.5;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 5px -5px 20px 7px rgba(142, 122, 141, 0.4);
+}
+
+
+/* Header */
+
+.header {
+    background-color: var(--main-background-color);
+    border-radius: 4px 4px 0 0;
+}
+
+/* Navigation */
+
+.nav {
+    list-style: none;
+    font-size: 18px;
+    text-align: center; 
+    padding: 7px 7px 10px 10px;
+}
+
+.nav li {
+    display: inline;
+    margin: 10px; 
+ }
+
+ .nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+ }
+
+ .nav a:hover {
+    color: var(--dark-green-color);
+ }
+
+
+ /* Main */
+
+.main {
+    display: flex;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+    font-weight: 900;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    color: var(--dark-green-color);
+}
+
+h2 {
+    margin: 5px 20px 60px 40px;
+    letter-spacing: 2px;
+}
+
+
+/* Left Side */
+.left-column {
+    background-color: var(--additional-background-color);
+    width: 35%;
+    min-width: 350px;
+    padding: 40px;
+}
+
+.photo {
+    margin: 20px;
+    text-align: center;
+}
+
+.photo img {
+    border: 5px solid var(--main-background-color);
+    border-radius: 50%;
+    image-rendering: crisp-edges; 
+}
+
+.left-column h3 {
+    width: 180px;
+    margin: 30px auto 20px;;
+    padding: 1px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background-color: var(--dark-green-color);
+    border-radius: 4px;
+}
+
+.contacts li {
+    list-style: none;
+}
+
+.contacts li img {
+    vertical-align: middle;
+    margin: 5px;
+}
+
+.contacts li p {
+    display: inline;
+    vertical-align: middle;
+}  
+
+.contacts a {
+    text-decoration: none;
+    color: var(--dark-gray-color);
+}
+
+.skills ul {
+    margin-left: 20px;
+}
+
+.educations ul {
+    margin-left: 20px;
+}
+
+.educations a {
+    text-decoration: none;
+    font-weight: 550;
+    color: rgb(0, 0, 0);
+}
+
+ .educations a:hover {
+    color: #9eb0a7;
+}
+
+ .languages ul {
+    margin-left: 20px;
+}
+
+.languages a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+ .languages a:hover {
+    color: #9eb0a7;
+}
+
+/* Right Side */
+
+
+.right-column {
+    background-color: #ffffff;
+    width: 65%;
+    padding: 40px;
+}
+
+.right-column h3 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #16342f;
+    border-bottom: 4px solid var(--dark-green-color);
+    margin: 15px auto 15px;
+}
+
+.right-column p {
+    margin-bottom: 10px;
+}
+
+.right-column li {
+    margin-bottom: 10px;
+}
+
+.right-column ul {
+    margin: 10px 20px;
+}
+
+.experience a {
+    text-decoration: none;
+    font-weight: 550;
+    color: rgb(0, 0, 0);
+}
+
+ .experience a:hover {
+    color: #9eb0a7;
+}
+
+ .projects a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+ .projects a:hover {
+    color: #9eb0a7;
+}
+
+
+pre {
+    margin-top: 20px;
+    font-family: monospace;
+    background-color: #f5f5f5;
+}
+
+
+/* Footer */
+
+.footer {
+    display: flex;
+    background-color: var(--dark-green-color);
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: var(--dark-green-color);
+}
+  
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+  
+footer .github-icon {
+    margin-right: 10px;
+}
+  
+.my-github {
+    display: flex;
+    align-items: center;
+}
+  
